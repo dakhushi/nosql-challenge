@@ -7,12 +7,17 @@ You've been contracted by the editors of a food magazine, Eat Safe, Love, to eva
 **Database Management (NoSQL/MongoDB):**
 - Created, managed, and queried databases using MongoDB.**
 - Imported JSON data into MongoDB collections using mongoimport.
+ ![image](https://github.com/user-attachments/assets/39efc549-2f46-4bc3-9163-2a050e093623)
 - Demonstrated proficiency with database setup, updating, and querying.
+
   
 **Data Cleaning and Preprocessing:**
 
 - Converted data types (e.g., strings to decimal numbers and integers) to ensure data consistency.
+  ![image](https://github.com/user-attachments/assets/e90817af-c1ac-4139-9dbd-fbee4989ceea)
+
 - Used update_many for bulk data updates to clean and standardize datasets.
+![image](https://github.com/user-attachments/assets/a5aaf560-972e-4ec9-9af7-71e69d9ec9c5)
 
 **Data Manipulation:**
 
@@ -40,6 +45,9 @@ You've been contracted by the editors of a food magazine, Eat Safe, Love, to eva
 - sed PyMongo for MongoDB queries.
 - Applied Pretty Print (pprint) for enhanced readability of database records.
 - Leveraged Pandas for data analysis and transformation.
+
+
+![image](https://github.com/user-attachments/assets/21a25d8d-f3c4-4c0b-a583-95dc71e7986b)
 
 **Addressed the Business Questions**
 
